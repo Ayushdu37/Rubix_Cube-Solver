@@ -1,3 +1,4 @@
 # Rubix_Cube-Solver.
-<img width="846" height="1280" alt="image" src="https://github.com/user-attachments/assets/3577a656-eccb-4d9e-a310-20a829ef151d" />
+![WhatsApp Image 2025-10-14 at 11 33 38 PM](https://github.com/user-attachments/assets/54d9376e-e971-409b-ba9d-396a5eb2bd66)
+
 
