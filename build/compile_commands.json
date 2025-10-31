@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/myFirstProject.dir/main.cpp.o -c /Users/vikalpshakya/Desktop/RubiksCubeSolver-main/main.cpp",
+  "file": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/main.cpp",
+  "output": "CMakeFiles/myFirstProject.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/myFirstProject.dir/Model/RubiksCube.cpp.o -c /Users/vikalpshakya/Desktop/RubiksCubeSolver-main/Model/RubiksCube.cpp",
+  "file": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/Model/RubiksCube.cpp",
+  "output": "CMakeFiles/myFirstProject.dir/Model/RubiksCube.cpp.o"
+},
+{
+  "directory": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/myFirstProject.dir/Model/RubiksCube3dArray.cpp.o -c /Users/vikalpshakya/Desktop/RubiksCubeSolver-main/Model/RubiksCube3dArray.cpp",
+  "file": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/Model/RubiksCube3dArray.cpp",
+  "output": "CMakeFiles/myFirstProject.dir/Model/RubiksCube3dArray.cpp.o"
+},
+{
+  "directory": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/myFirstProject.dir/Model/RubiksCube1dArray.cpp.o -c /Users/vikalpshakya/Desktop/RubiksCubeSolver-main/Model/RubiksCube1dArray.cpp",
+  "file": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/Model/RubiksCube1dArray.cpp",
+  "output": "CMakeFiles/myFirstProject.dir/Model/RubiksCube1dArray.cpp.o"
+},
+{
+  "directory": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/myFirstProject.dir/Model/RubiksCubeBitBoard.cpp.o -c /Users/vikalpshakya/Desktop/RubiksCubeSolver-main/Model/RubiksCubeBitBoard.cpp",
+  "file": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/Model/RubiksCubeBitBoard.cpp",
+  "output": "CMakeFiles/myFirstProject.dir/Model/RubiksCubeBitBoard.cpp.o"
+},
+{
+  "directory": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/myFirstProject.dir/PatternDatabases/NibbleArray.cpp.o -c /Users/vikalpshakya/Desktop/RubiksCubeSolver-main/PatternDatabases/NibbleArray.cpp",
+  "file": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/PatternDatabases/NibbleArray.cpp",
+  "output": "CMakeFiles/myFirstProject.dir/PatternDatabases/NibbleArray.cpp.o"
+},
+{
+  "directory": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/myFirstProject.dir/PatternDatabases/math.cpp.o -c /Users/vikalpshakya/Desktop/RubiksCubeSolver-main/PatternDatabases/math.cpp",
+  "file": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/PatternDatabases/math.cpp",
+  "output": "CMakeFiles/myFirstProject.dir/PatternDatabases/math.cpp.o"
+},
+{
+  "directory": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/myFirstProject.dir/PatternDatabases/PatternDatabase.cpp.o -c /Users/vikalpshakya/Desktop/RubiksCubeSolver-main/PatternDatabases/PatternDatabase.cpp",
+  "file": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/PatternDatabases/PatternDatabase.cpp",
+  "output": "CMakeFiles/myFirstProject.dir/PatternDatabases/PatternDatabase.cpp.o"
+},
+{
+  "directory": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/myFirstProject.dir/PatternDatabases/CornerPatternDatabase.cpp.o -c /Users/vikalpshakya/Desktop/RubiksCubeSolver-main/PatternDatabases/CornerPatternDatabase.cpp",
+  "file": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/PatternDatabases/CornerPatternDatabase.cpp",
+  "output": "CMakeFiles/myFirstProject.dir/PatternDatabases/CornerPatternDatabase.cpp.o"
+},
+{
+  "directory": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.0 -o CMakeFiles/myFirstProject.dir/PatternDatabases/CornerDBMaker.cpp.o -c /Users/vikalpshakya/Desktop/RubiksCubeSolver-main/PatternDatabases/CornerDBMaker.cpp",
+  "file": "/Users/vikalpshakya/Desktop/RubiksCubeSolver-main/PatternDatabases/CornerDBMaker.cpp",
+  "output": "CMakeFiles/myFirstProject.dir/PatternDatabases/CornerDBMaker.cpp.o"
+}
+]
