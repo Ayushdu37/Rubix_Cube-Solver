@@ -1,4 +1,4 @@
-
+//coded by vishesh
 
 #include "RubiksCube.h"
 
@@ -266,3 +266,4 @@ struct Hash3d {
 
 
 };
+
