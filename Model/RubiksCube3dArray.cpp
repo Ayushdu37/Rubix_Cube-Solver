@@ -1,6 +1,4 @@
-//
-// Created by Abdulla Khan on 12-10-2025.
-//
+
 
 #include "RubiksCube.h"
 
@@ -265,5 +263,6 @@ struct Hash3d {
         }
         return hash<string>()(str);
     }
+
 
 };
