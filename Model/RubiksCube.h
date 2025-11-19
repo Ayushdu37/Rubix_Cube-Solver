@@ -1,5 +1,5 @@
 //
-    // Created on 12 OCT 2025
+    // Created on 15 OCT 2025
 //
 
 #ifndef RUBIKS_CUBE_SOLVER_RUBIKSCUBE_H
